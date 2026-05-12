@@ -1,4 +1,4 @@
-# 🌳 Práctica de Estructuras de Datos - Árboles
+# Práctica de Estructuras de Datos - Árboles
 
 <div align="center">
 
@@ -43,21 +43,22 @@ Este repositorio contiene la solución completa de **5 ejercicios prácticos** s
 
 ## Estructura del Repositorio
 
-Guia_Ape3_Arboles/
-├── C++/
-│   ├── Ejercicio1_Basico.cpp
-│   ├── Ejercicio2_Binario.cpp
-│   ├── Ejercicio3_Binario.cpp
-│   ├── Ejercicio4_Recorridos.cpp
-│   └── Ejercicio5_Transformacion.cpp
-├── Java/
-│   ├── Ejercicio1_Basico.java
-│   ├── Ejercicio2_Binario.java
-│   ├── Ejercicio3_Binario2.java
-│   ├── RecorridoInOrder.java
-│   └── Ejercicio5_Transformacion.java
-├── GuiaApe3.pdf
-└── README.md
+- 📂 Guia_Ape3_Arboles
+  - 📂 C++
+    - 📄 Ejercicio1_Basico.cpp
+    - 📄 Ejercicio2_Binario.cpp
+    - 📄 Ejercicio3_Binario.cpp
+    - 📄 Ejercicio4_Recorridos.cpp
+    - 📄 Ejercicio5_Transformacion.cpp
+  - 📂 Java
+    - 📄 Ejercicio1_Basico.java
+    - 📄 Ejercicio2_Binario.java
+    - 📄 Ejercicio3_Binario2.java
+    - 📄 RecorridoInOrder.java
+    - 📄 Ejercicio5_Transformacion.java
+  - 📄 GuiaApe3.pdf
+  - 📄 README.md
+
 
 ## 📊 Ejercicios Implementados en Java y C++
 
