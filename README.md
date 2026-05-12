@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 ### General
 Desarrollar habilidades en el trabajo con árboles.
@@ -22,7 +22,7 @@ Desarrollar habilidades en el trabajo con árboles.
 3. Diferenciar el comportamiento y aplicación de árboles N-arios vs Árboles Binarios de Búsqueda (BST).
 
 ---
-## 📋 Descripción
+##  Descripción
 
 Este repositorio contiene la solución completa de **5 ejercicios prácticos** sobre árboles, desarrollados en **C++** y **Java**. Cada ejercicio implementa operaciones fundamentales para trabajar con estructuras jerárquicas:
 
@@ -33,36 +33,36 @@ Este repositorio contiene la solución completa de **5 ejercicios prácticos** s
 
 ---
 
-## ✅ Estado del Proyecto
+##  Estado del Proyecto
 
 | Estado | Compleción |
 |--------|-------------|
-| 🟢 **COMPLETADO** | 5/5 ejercicios (C++ + Java) |
+|  **COMPLETADO** | 5/5 ejercicios (C++ + Java) |
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 Guia_Ape3_Arboles/
 ├── C++/
-│ ├── Ejercicio1_Basico.cpp
-│ ├── Ejercicio2_Binario.cpp
-│ ├── Ejercicio3_Binario.cpp
-│ ├── Ejercicio4_Recorridos.cpp
-│ └── Ejercicio5_Transformacion.cpp
+│   ├── Ejercicio1_Basico.cpp
+│   ├── Ejercicio2_Binario.cpp
+│   ├── Ejercicio3_Binario.cpp
+│   ├── Ejercicio4_Recorridos.cpp
+│   └── Ejercicio5_Transformacion.cpp
 ├── Java/
-│ ├── Ejercicio1_Basico.java
-│ ├── Ejercicio2_Binario.java
-│ ├── Ejercicio3_Binario2.java
-│ ├── RecorridoInOrder.java
-│ └── Ejercicio5_Transformacion.java
+│   ├── Ejercicio1_Basico.java
+│   ├── Ejercicio2_Binario.java
+│   ├── Ejercicio3_Binario2.java
+│   ├── RecorridoInOrder.java
+│   └── Ejercicio5_Transformacion.java
+├── GuiaApe3.pdf
 └── README.md
----
 
-## 📊 Ejercicios Implementados
+## 📊 Ejercicios Implementados en Java y C++
 
-| # | Ejercicio | Concepto | C++ | Java | Estado |
-|---|-----------|----------|-----|------|--------|
+| # | Ejercicio | Concepto |
+|---|-----------|----------|
 | 1 | Conteo de nodos | Árbol N-ario + Recursividad 
 | 2 | Inserción en BST | Árbol Binario de Búsqueda
 | 3 | Cálculo de altura | Profundidad máxima 
@@ -73,8 +73,6 @@ Guia_Ape3_Arboles/
 # Compilar
 g++ -std=c++11 Ejercicio1_Basico.cpp -o ejercicio1
 
-# Ejecutar
-./ejercicio1
 
 # Compilación y ejecución (java)
 # Compilar
