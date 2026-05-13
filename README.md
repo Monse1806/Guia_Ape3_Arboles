@@ -114,6 +114,10 @@ La implementación de los cuatro recorridos en ambos lenguajes permitió compren
 | Velocidad | Generalmente mas rapido | Mas lento por JVM |
 | Portabilidad | Depende del compilador y SO | Multiplataforma |
 
+## 7. COMO EJECUTAR EL PROGRAMA
+### Requisitos previos
+- Tener instalado un compilador de C++ (g++ en Linux/macOS o MinGW en Windows)
+- Tener instalado Java JDK 8 o superior (javac y java)
 # Compilación y ejecución (C++)
 # Compilar
 g++ -std=c++11 Ejercicio1_Basico.cpp -o ejercicio1
