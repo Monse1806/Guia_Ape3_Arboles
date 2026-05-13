@@ -56,7 +56,7 @@ Este repositorio contiene la solución completa de **5 ejercicios prácticos** s
     - 📄 Ejercicio3_Binario2.java
     - 📄 RecorridoInOrder.java
     - 📄 Ejercicio5_Transformacion.java
-  - 📄 GuiaApe3.pdf
+  - 📄 Informe.pdf
   - 📄 README.md
 
 
